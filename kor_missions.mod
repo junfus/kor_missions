@@ -1,7 +1,7 @@
-version="0.0.1"
+version="1.0.0"
 tags={
 	"Missions And Decisions"
 }
-name="Rebuild Korea Missions"
+name="Korea Missions"
 supported_version="1.30.*"
-path="mod/rebuild_kor_missions"
+path="mod/kor_missions"
